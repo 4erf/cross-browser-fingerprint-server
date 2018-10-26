@@ -1,0 +1,3 @@
+C:\Users\Edu\Desktop\server\obj\Debug\server.pyproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\server\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Edu\Desktop\server\bin\wfastcgi.py
